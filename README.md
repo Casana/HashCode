@@ -1,2 +1,2 @@
-# HashCode
-Hash Code 2019
+# hash_code_base
+Inicial para hash code
