@@ -1,7 +1,7 @@
 {
-  "name": "city",
+  "name": "HashCode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project for Google HashCode Event",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

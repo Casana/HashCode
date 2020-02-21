@@ -63,8 +63,8 @@ const readCurrentRide = (rideConditions) => {
     if (minDistance === currentRideDistance) closestVehicle = availableVehicles[i];
   };
   const getAvailablesVehicles = (initRideStep, endRideStep) => {
-    for()
-    steps[]
+    //for()
+    //steps[]
     city.vehicles.filter(vehicle => !vehicle.busy);
   }
 };
